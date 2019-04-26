@@ -8,6 +8,20 @@
     <link rel="stylesheet" href="dist/css/app.min.css">
 </head>
 <body>
-    
+    <header class="logo">
+        <div class="logo"></div>
+        <nav>
+            <ul class="navFlex">
+                <li><a href="#" class="navLink">Home</a></li>
+                <li><a href="#" class="navLink">About us</a></li>
+                <li><a href="#" class="navLink">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="section section--hero">
+
+        </section>
+    </main>
 </body>
 </html>
